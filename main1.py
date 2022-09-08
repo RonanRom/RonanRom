@@ -1,4 +1,4 @@
- git add main1 main2 authortry:
+try:
     print("Введите длину массива n и длину комбинаций m: ")
     data = [int(float(arr)) for arr in input().split()]
     n = data[0]
